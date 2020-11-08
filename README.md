@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Luligabi1's github stats](https://github-readme-stats.vercel.app/api?username=Luligabi1&show_icons=true&theme=radical)
+![Luligabi1's github stats](https://github-readme-stats.vercel.app/api?username=Luligabi1&show_icons=true&theme=cobalt)
 
 
 - 🔭 I’m currently working on multiple Bukkit/Spigot plugins!
