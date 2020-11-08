@@ -7,6 +7,5 @@
 - 🌱 I’m currently developing my knowledges on advanced Java
 
 - 📫 How to reach me:
-..* Discord: Luligabi1#9966
-..* Twitter: [@Luligab1](https://twitter.com/Luligab1/)
-
+* Discord: Luligabi1#9966
+* Twitter: [@Luligab1](https://twitter.com/Luligab1/)
