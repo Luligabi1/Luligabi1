@@ -11,4 +11,4 @@
 <br>
 
 📫 **How to reach me:**
-* **Discord:** Luligabi1#9966
+* **Discord:** @luligabi1
